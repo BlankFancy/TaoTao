@@ -1,0 +1,41 @@
+cake.php					糕点网页
+nut.php					坚果网页
+clothesComplete.php 			衣物网页
+shopCartComplete.php			购物车网页
+homeOrignal.php				网站首页（初始匿名状态）
+home.php				网站首页
+conn.php					链接数据库
+operator.php				管理员登陆
+signln1.php+signIn2.php			注册界面及处理提交
+logInComplete.php				登陆界面
+header.html				用户后台标头
+headerC.html				商品后台标头
+control.php				用户后台操作显示页
+communityControl.php			商品后台操作显示页
+cakeControl.php				糕点类商品后台操作显示页
+nutControl.php				坚果类商品后台操作显示页
+clothControl.php				衣物类商品后台操作显示页
+headerCake.html				糕点类商品后台标头
+headerNut.html				坚果类商品后台标头
+headerNut.html				衣物类商品后台标头
+del.php+delete.php				用户后台删除操作
+nutDel.php+nutDelete.php			坚果类商品后台删除操作
+cakeDel.php+cakeDelete.php			糕点类商品后台删除操作
+clothDel.php+clothDelete.php			衣物类商品后台删除操作
+modify.php+update_form.php+update_ok.php	
+用户后台信息修改操作
+cakeModify.php+cakeUpdate_form.php+cakeUpdate_ok.php	
+糕点类商品后台信息修改操作
+nutModify.php+nutUpdate_form.php+nutUpdate_ok.php	
+糕点类商品后台信息修改操作
+clothModify.php+clothUpdate_form.php+clothUpdate_ok.php	
+糕点类商品后台信息修改操作
+innerView	.php				管理员后台进入页面
+userView.php				用户后台查看操作
+cakeView.php				糕点类商品后台查看操作
+nutView.php				坚果类商品后台查看操作
+clothView.php				衣物类商品后台查看操作
+cakeInsert.php				糕点类商品后台插入操作
+nutInsert.php				坚果类商品后台插入操作
+clothInsert.php				衣物类商品后台插入操作
+
